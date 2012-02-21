@@ -9,6 +9,7 @@
   <packaging>maven-archetype</packaging>
   <name>eduarea-mvn-archetype</name>
 
+
   <distributionManagement>
     <repository>
       <id>eduarea.repo</id>
@@ -16,7 +17,6 @@
       <url>file://${basedir}/../eduarea-repo</url>
     </repository>
   </distributionManagement>
-
 
 
   <build>

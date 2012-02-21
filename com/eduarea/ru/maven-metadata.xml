@@ -6,5 +6,10 @@
       <prefix>eduarea-mvn-archetype</prefix>
       <artifactId>eduarea-mvn-archetype</artifactId>
     </plugin>
+    <plugin>
+      <name>Eduarea Maven Course Archetype</name>
+      <prefix>eduarea-archetype</prefix>
+      <artifactId>eduarea-archetype</artifactId>
+    </plugin>
   </plugins>
 </metadata>
